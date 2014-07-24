@@ -1,0 +1,10 @@
+{
+    "name": "manadev/Mana_Dev",
+    "type": "magento-module",
+    "description": "Refresh Cache button for Magento Admin Panel",
+    "license": "OSL 3.0",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "minimum-stability": "dev"
+}
