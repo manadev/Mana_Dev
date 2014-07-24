@@ -1,0 +1,6 @@
+code                                            app/code/local/Mana/Dev
+module.xml                                      app/etc/modules/Mana_Dev.xml
+translate.csv                                   app/locale/en_US/Mana_Dev.csv
+backend/layout.xml                              app/design/adminhtml/default/default/layout/mana_dev.xml
+backend/template                                app/design/adminhtml/default/default/template/mana/dev
+backend/css/styles.css                          skin/adminhtml/default/default/css/mana_dev.css
